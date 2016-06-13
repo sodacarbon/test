@@ -1,0 +1,4 @@
+right click a folder > Git GUI Here
+
+select file > ^T => Stage the file
+^U > Unstage the file
